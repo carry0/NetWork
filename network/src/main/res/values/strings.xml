@@ -1,0 +1,22 @@
+<resources>
+
+    !-- error -->
+    <string name="data_parser_error">解析后台数据时出现错误，请联系管理员解决！</string>
+    <string name="no_network_error">请检查网络连接！</string>
+    <string name="other_error">服务器出现其他异常，请联系服务器管理员。</string>
+    <string name="unknown_error"> 服务器出现未知异常，请联系服务器管理员。</string>
+    <string name="login_timeout_error">由于用户长时间没有进行操作，登陆超时，请重新登陆！</string>
+    <string name="http_not_support_error">HTTP方法不支持，请检查参数传递是否准确！</string>
+    <string name="five_comment_error">服务器报错500，请联系服务器管理员解决问题！</string>
+    <string name="four_comment_error">服务器报错400，请联系服务器管理员解决问题！</string>
+    <string name="socket_timeout_error">连接超时，请联系后台管理员！</string>
+    <string name="connect_error">连接异常，请检查服务器是否打开！</string>
+
+    <string name="query_error">数据库查询不到此库位信息</string>
+    <string name="no_route_to_host">连接异常，找不到服务器主机！</string>
+    <string name="query_result_empty_error">查询结果为空！</string>
+    <string name="service_no_user_error">必填字段缺失！</string>
+    <string name="order_delivered_error">该出库单未备货完毕！</string>
+    <string name="unfinished_error">该出库单已出库！</string>
+    <string name="user_nonentity_error">用户名不存在</string>
+</resources>
